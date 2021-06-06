@@ -1,0 +1,2 @@
+rootProject.name = "TextViews Tutorial"
+include ':app'
